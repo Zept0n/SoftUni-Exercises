@@ -10,5 +10,5 @@ function triangle(number) {
         console.log(stringOfNum);
     }
 }
-triangle(6);
+triangle(5);
 triangle(3);
