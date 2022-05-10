@@ -11,4 +11,5 @@ function triangle(number) {
     }
 }
 triangle(6);
+triangle(5);
 triangle(3);
