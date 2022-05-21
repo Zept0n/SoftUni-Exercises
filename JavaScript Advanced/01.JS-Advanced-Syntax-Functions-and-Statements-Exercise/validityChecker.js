@@ -10,8 +10,6 @@ function validity(p1,p2,p3,p4) {
         let isValid=distance%1===0;
         return isValid?'valid' :'invalid';
     }
-    
-    
     console.log(`{${x1}, ${y1}} to {${x0}, ${y0}} is ${isValid(x1,y1,x0,y0)}`)
     console.log(`{${x2}, ${y2}} to {${x0}, ${y0}} is ${isValid(x2,y2,x0,y0)}`)
     console.log(`{${x1}, ${y1}} to {${x2}, ${y2}} is ${isValid(x1,y1,x2,y2)}`)
