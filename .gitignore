@@ -1,13 +1,15 @@
 *.docx
 *.rar
 *.zip
+JavaScript Advanced/*/node_modules/
+JavaScript Advanced/*/package-lock.json
+JavaScript Advanced/*/package.json
+
+
+#Ignored files.
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Lab/listProc.js
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Lab/cars.js
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Exercise/09. Task Manager/style.css
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Exercise/09. Task Manager/index.html
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Exercise/09. Task Manager/app.js
-JavaScript Advanced/07.JS-Advanced-Unit-Testing-and-Error-Handling-Lab/node_modules/
-JavaScript Advanced/07.JS-Advanced-Unit-Testing-and-Error-Handling-Lab/package-lock.json
-JavaScript Advanced/07.JS-Advanced-Unit-Testing-and-Error-Handling-Lab/package.json
 JavaScript Advanced/07.JS-Advanced-Unit-Testing-and-Error-Handling-Lab/test.js
-JavaScript Advanced/07.JS-Advanced-Unit-Testing-and-Error-Handling-Exercise/node_modules/
