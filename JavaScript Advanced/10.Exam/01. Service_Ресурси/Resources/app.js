@@ -80,3 +80,14 @@ function solve() {
         return element;
     }
 }
+
+
+function calorie(array) {
+    let result={};
+    for(let index=0;index<array.length;index+=2) {
+        let currentFoodName=array[index];
+        let currentFoodCalories=Number(array[index+1]);
+        result[currentFoodName]=currentFoodCalories;
+    }
+    console.log(result)
+}
