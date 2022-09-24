@@ -5,10 +5,9 @@ JavaScript Advanced/*/node_modules/
 JavaScript Advanced/*/package-lock.json
 JavaScript Advanced/*/package.json
 JavaScript Advanced/*/server/
+JavaScript Applications/*/server/
+JavaScript Applications/*/node_modules/
 
-
-
-JavaScript Applications\exam-prep\Clear Career_Resources\node_modules
 
 #Ignored files.
 JavaScript Advanced/06.JS-Advanced-Advanced-Functions-Lab/listProc.js
