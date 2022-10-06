@@ -1,12 +1,11 @@
 *.docx
 *.rar
 *.zip
-JavaScript Advanced/*/node_modules
-JavaScript Advanced/*/package-lock.json
-JavaScript Advanced/*/package.json
-JavaScript Advanced/*/server/
-JavaScript Applications/*/server
-JavaScript Applications/*/node_modules
+*.png
+*.jpg
+
+server/
+node_modules/
 
 
 #Ignored files.
